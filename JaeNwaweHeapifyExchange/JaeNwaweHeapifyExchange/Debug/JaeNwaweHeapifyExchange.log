@@ -1,0 +1,7 @@
+﻿  Heap.cpp
+c:\users\jae nwawe\dropbox\674 spring 2016\jaenwaweheapifyexchange\jaenwaweheapifyexchange\heap.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jae nwawe\dropbox\674 spring 2016\jaenwaweheapifyexchange\jaenwaweheapifyexchange\heap.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\jae nwawe\dropbox\674 spring 2016\jaenwaweheapifyexchange\jaenwaweheapifyexchange\heap.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\jae nwawe\dropbox\674 spring 2016\jaenwaweheapifyexchange\jaenwaweheapifyexchange\heap.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\jae nwawe\dropbox\674 spring 2016\jaenwaweheapifyexchange\jaenwaweheapifyexchange\heap.cpp(78): warning C4101: '_min': unreferenced local variable
+  JaeNwaweHeapifyExchange.vcxproj -> C:\Users\Jae Nwawe\Dropbox\674 Spring 2016\JaeNwaweHeapifyExchange\Debug\JaeNwaweHeapifyExchange.exe
